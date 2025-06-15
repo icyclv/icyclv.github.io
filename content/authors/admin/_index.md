@@ -138,15 +138,15 @@ awards:
     url: ''
     date: '2024-10-01'
     awarder: Tencent
-    icon: medal
+    icon: custom/medal
     summary: |
       Awarded for outstanding contributions to the Tencent RhinoBird Open Source Program, including performance optimizations to SM3/SM4 algorithms and JVM garbage collection tuning that improved benchmark scores significantly.
 
-  - title: "Five-Good" Graduate Student
+  - title: Five-Good Graduate Student
     url: ''
     date: '2024-06-01'
     awarder: Zhejiang University
-    icon: award
+    icon: custom/award
     summary: |
       Recognized for exemplary performance across moral, intellectual, physical, aesthetic, and labor aspects during master's studies at Zhejiang University.
 
@@ -154,7 +154,7 @@ awards:
     url: ''
     date: '2020-06-01'
     awarder: Northeastern University
-    icon: award
+    icon: custom/award
     summary: |
       Honored as an Outstanding Student Leader at Northeastern University for academic performance and leadership in student organizations.
 
