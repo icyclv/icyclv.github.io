@@ -87,6 +87,9 @@ work:
 
       Honors:
       - Awarded “Excellent Student” in the Tencent Open Source Talent Program.
+    
+projects:
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -119,7 +122,7 @@ skills:
         icon: custom/book
       - name: Fitness
         description: ''
-        percent: 70
+        percent: 20
         icon: custom/fitness
 
 
@@ -162,4 +165,4 @@ awards:
 
 # About
 
-I am currently a graduate student at Zhejiang University.
+Hi, I'm Yachen Chang, a master's student in Software Engineering at Zhejiang University. My interests lie in system performance, secure data processing, and robust out-of-distribution detection for visual models. I’ve interned at ByteDance, contributed to open-source projects like Tencent Kona, and published at CVPR 2025. I enjoy building tools that bridge research and real-world applications.
